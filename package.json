@@ -1,0 +1,23 @@
+{
+  "name": "web-sockets",
+  "version": "1.0.0",
+  "description": "testing web sockets in javascript ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuamango/web-sockets.git"
+  },
+  "author": "Joshua Odeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuamango/web-sockets/issues"
+  },
+  "homepage": "https://github.com/joshuamango/web-sockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
